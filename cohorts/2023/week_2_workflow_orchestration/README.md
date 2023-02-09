@@ -19,5 +19,19 @@ Answer: `0 5 1 * *`
 3. `prefect agent start -q 'default'`
 4. Start the flow
 
-Answer: `14,851,920`
+Answer: `14851920`
 
+
+### Question 4. Github Storage Block
+1. move to the repo root
+2. `prefect deployment build -n "github-flow" -sb github/zoom-github cohorts/2023/week_2_workflow_orchestration/etl_web_to_gcs.py:etl_web_to_gcs --apply`
+
+Answer: `88605`
+
+
+### Question 5. Email or Slack notifications
+Answer: `514392`
+
+
+### Question 6. Secrets
+Answer: `8`
