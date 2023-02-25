@@ -16,5 +16,6 @@ serving_dir
 .ipynb_checkpoints/
 !week_6_stream_processing/avro_example/data/rides.csv
 **/data/*
+!cohorts/2023/week_4_analytics_engineering/taxi_rides_ny/data/*
 
 gcp-credentials.json
