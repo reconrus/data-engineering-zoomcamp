@@ -19,3 +19,5 @@ serving_dir
 !cohorts/2023/week_4_analytics_engineering/taxi_rides_ny/data/*
 
 gcp-credentials.json
+
+cohorts/2023/week_5_batch_processing/fhvhv*
